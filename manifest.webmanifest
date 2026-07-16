@@ -1,0 +1,9 @@
+{
+  "name": "Minha Peça Sprint 8",
+  "short_name": "Minha Peça",
+  "start_url": "./?v=080",
+  "display": "standalone",
+  "background_color": "#F2F5FA",
+  "theme_color": "#071B33",
+  "description": "Investor demo do ecossistema Minha Peça."
+}
